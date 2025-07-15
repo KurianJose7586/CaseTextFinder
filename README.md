@@ -1,4 +1,4 @@
-```markdown
+
 # 🏛️ CaseTextFinder
 
 A Python tool for Indian legal researchers to **automatically retrieve Supreme Court case titles** and **download their judgments (PDFs)** based on a natural language description of a legal issue.
@@ -91,12 +91,6 @@ CaseTextFinder/
 - Currently filters only **Supreme Court** judgments.
 - Accuracy depends on LLM response and Indian Kanoon search results.
 - Title normalization improves match quality.
-
----
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for more info.
 
 ---
 
